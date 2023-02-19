@@ -13,7 +13,7 @@ The image generation is triggered by a button labeled "Generate" that is 40 pixe
 Overall, this app provides a simple way for users to generate and view images using a pretrained machine learning model.
 
 
-#RUN
+# RUN
 
 python3
 
